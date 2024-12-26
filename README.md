@@ -1,7 +1,7 @@
 ## Olá!👋
 # 👩🏻‍💻 Diogo Alves
 
-**`Desenvolvedora FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 
 Me chamo Diogo Ribeiro Alves, tenho 17 anos e sou natural de São Paulo, atualmente moro no norte de Minas Gerais e estudo em Goiás. Concluí o ensino médio no IFG, com o curso técnico em informática para internet. Pretendo me graduar em Sistemas de Informação. Sou apaixonado por tecnologia e desenvolvo projetos para web.
 
