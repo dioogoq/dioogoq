@@ -4,7 +4,7 @@
 
 **`Developer`**
 
-Busco oportunidades para crescer como desenvolvedor, aprofundar minha experiência em projetos reais e evoluir para desafios cada vez mais complexos no desenvolvimento web. Estou sempre aberto a colaborações e novos aprendizados.
+Busco oportunidades para crescer como desenvolvedor, aprofundar minha experiência em projetos reais e evoluir como Engenheiro de Software. Estou sempre aberto a colaborações e novos aprendizados.
 
 <p>
     <a href="https://github.com/dioogoq?tab=repositories&sort=stargazers">
