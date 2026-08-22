@@ -4,7 +4,7 @@
 
 **`Developer`**
 
-Tenho 18 anos, sou natural do interior de São Paulo, atualmente moro no norte de Minas Gerais e estudo em Goiás. Concluí o ensino médio no IFG, com curso técnico em informática para internet. Pretendo me graduar em Sistemas de Informação. Sou apaixonado por tecnologia e desenvolvo projetos para web.
+Busco oportunidades para crescer como desenvolvedor, aprofundar minha experiência em projetos reais e evoluir para desafios cada vez mais complexos no desenvolvimento web. Estou sempre aberto a colaborações e novos aprendizados.
 
 <p>
     <a href="https://github.com/dioogoq?tab=repositories&sort=stargazers">
@@ -33,10 +33,7 @@ Tenho 18 anos, sou natural do interior de São Paulo, atualmente moro no norte d
   <img alt="HTML" title="HTML" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Bootstrap" title="Bootstrap" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Angular" title="Angular" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img alt="PHP" title="PHP" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Ruby" title="Ruby" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="SQL" title="SQL" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
